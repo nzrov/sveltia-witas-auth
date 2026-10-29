@@ -1,3 +1,7 @@
-name = "sveltia-witas-auth"
-main = "src/index.js"
-compatibility_date = "2023-03-24"
+   name = "sveltia-witas-auth"
+   main = "src/index.js"
+   compatibility_date = "2023-03-24"
+   keep_vars = true
+
+   [vars]
+   ALLOWED_DOMAINS = "juliawitas.com, www.juliawitas.com"
