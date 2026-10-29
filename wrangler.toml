@@ -5,3 +5,4 @@
 
    [vars]
    ALLOWED_DOMAINS = "juliawitas.com, www.juliawitas.com"
+   GITHUB_CLIENT_ID = "Ov23linx6aX5oRK8bhiQ"
